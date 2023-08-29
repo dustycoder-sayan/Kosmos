@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/drawable/ic_action_delete.xml" value="0.2015" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/activity_add_board.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/activity_add_card.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/activity_board_list.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/activity_card_view.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/add_card.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/add_checklist.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/add_notes.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/board_row.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/card_view.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/checklist.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/create_card.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/create_list.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/delete_card.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/edit_board.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/edit_card.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/edit_list.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/list_view.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/kosmos2/app/src/main/res/layout/notes_view.xml" value="0.20153985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2418478260869565" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:gravity="center"
+    tools:context=".AddCardActivity">
+
+    <EditText
+        android:id="@+id/cardNameInAddCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textSize = "20sp"
+        android:layout_marginTop = "10dp"
+        android:layout_marginBottom = "10dp"
+        android:inputType="textPersonName"
+        android:hint="Card Name" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/cardDescInAddCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize = "20sp"
+        android:layout_marginTop = "10dp"
+        android:hint="Card Description" />
+
+    <Button
+        android:id="@+id/startDateAddCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop = "50dp"
+        android:layout_marginStart = "5dp"
+        android:layout_marginEnd = "5dp"
+        android:text="Start Date" />
+
+    <TextView
+        android:id="@+id/startDateString"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Date Selected"
+        android:textAlignment="center"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/endDateAddCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop = "2dp"
+        android:layout_marginStart = "5dp"
+        android:layout_marginEnd = "5dp"
+        android:text="End Date" />
+
+    <TextView
+        android:id="@+id/endDateString"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:text="End Date Selected" />
+
+    <Button
+        android:id="@+id/saveCardBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="5dp"
+        android:text="Save" />
+
+</LinearLayout>
